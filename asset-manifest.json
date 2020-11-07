@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pets-rolodex/static/css/main.3da0791c.chunk.css",
+    "main.js": "/pets-rolodex/static/js/main.18ebd044.chunk.js",
+    "main.js.map": "/pets-rolodex/static/js/main.18ebd044.chunk.js.map",
+    "runtime-main.js": "/pets-rolodex/static/js/runtime-main.0ef09689.js",
+    "runtime-main.js.map": "/pets-rolodex/static/js/runtime-main.0ef09689.js.map",
+    "static/js/2.5bfc6a4a.chunk.js": "/pets-rolodex/static/js/2.5bfc6a4a.chunk.js",
+    "static/js/2.5bfc6a4a.chunk.js.map": "/pets-rolodex/static/js/2.5bfc6a4a.chunk.js.map",
+    "index.html": "/pets-rolodex/index.html",
+    "static/css/main.3da0791c.chunk.css.map": "/pets-rolodex/static/css/main.3da0791c.chunk.css.map",
+    "static/js/2.5bfc6a4a.chunk.js.LICENSE.txt": "/pets-rolodex/static/js/2.5bfc6a4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ef09689.js",
+    "static/js/2.5bfc6a4a.chunk.js",
+    "static/css/main.3da0791c.chunk.css",
+    "static/js/main.18ebd044.chunk.js"
+  ]
+}
